@@ -1,7 +1,7 @@
 # A new method for the reproducible development of aptamers (Neomers) - Visualizations
 ---
 ## Overview 
-This repository contains the R scripts and necessary data needed to reproduce the visualizations from the Plos One submission titled, "A new method for the reproducible development of aptamers (Neomers)". 
+This repository contains the R scripts and necessary data needed to reproduce the visualizations from the PLos One submission titled, "A new method for the reproducible development of aptamers (Neomers)". 
 
 For further information on the neomer method and result visualizations, please refer to our preprint: [A new method for the reproducible development of aptamers (Neomers)](https://biorxiv.org/cgi/content/short/2023.12.19.572437v1)(2023).
 
